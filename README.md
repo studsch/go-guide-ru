@@ -641,7 +641,7 @@ var (
 	// Тем не менее, мы можем использовать ее внутри пакета
 	// с помощью errors.Is.
 
-	errNotFound = errors.New("not found)
+	errNotFound = errors.New("not found")
 )
 ```
 
